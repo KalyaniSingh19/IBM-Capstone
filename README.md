@@ -1,1 +1,3 @@
 # IBM-Capstone
+
+In this capstone project, we aim to predict whether the first stage of a SpaceX Falcon 9 rocket will land successfully. SpaceX offers its Falcon 9 launches at a significantly lower cost of $62 million, compared to other providers charging upwards of $165 million. This cost advantage is largely due to the reusable nature of Falcon 9's first stage. By accurately predicting the landing success of this stage, we can estimate the overall launch cost, providing valuable insights for companies seeking to bid against SpaceX for rocket launches. Throughout this project, we will explore the problem, utilize various tools, and apply machine learning techniques to develop predictive models for Falcon 9's landing success.
